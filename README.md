@@ -1,4 +1,3 @@
-<img width="1739" height="469" alt="Screenshot 2026-04-27 at 8 52 01 AM" src="https://github.com/user-attachments/assets/47576379-5759-4b9f-a038-75499751752e" />
 # SHEIN-Product-Funnel-Analysis-Pricing-Category-Inventory-Insights-
  
 ### Pricing • Discount Strategy • Inventory Insights  
@@ -83,7 +82,7 @@ The analysis is extended using **segmentation by category, color, and size** to 
 ## 📊 Visualization  
 
 ### 🔻 Pricing Funnel Chart  
-
+<img width="1739" height="469" alt="Screenshot 2026-04-27 at 8 52 01 AM" src="https://github.com/user-attachments/assets/47576379-5759-4b9f-a038-75499751752e" />
 
 ---
 
